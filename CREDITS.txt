@@ -1,0 +1,7 @@
+SkyBook 3D — credits
+====================
+Sky (HDRI):  "Kloofendal 48d Partly Cloudy" — Poly Haven, CC0 (https://polyhaven.com/a/kloofendal_48d_partly_cloudy)
+             Нижняя половина заменена отражёнными облаками.
+Aircraft:    Boeing 737-NG, из файла 737.blend (экспорт в GLB).
+             TODO: впишите автора, ссылку и лицензию. Если CC-BY — автора нужно указать на сайте.
+Three.js r128 (MIT) — vendor/three.min.js, vendor/GLTFLoader.js
